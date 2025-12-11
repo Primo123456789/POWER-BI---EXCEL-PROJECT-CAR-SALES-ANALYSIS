@@ -4,12 +4,13 @@ This data is from kaggle.com and includes records from 2022 - 2023.
 
 Data Source: https://www.kaggle.com/datasets/missionjee/car-sales-report
 
-<img width="1422" height="797" alt="image" src="https://github.com/user-attachments/assets/24241cde-a2b0-4b2f-8235-1cbd67af1363" />
+<img width="1406" height="790" alt="image" src="https://github.com/user-attachments/assets/e5497212-8239-4377-903c-6dc9cc9dbe5b" />
+
 
 GOAL: 
 
 1. Use MS Excel skills to manipulate data in preparation for visualization
-2.  Use Power BI skills to effectively visualize data for meaningful data-driven decisions.
+2. Use Power BI skills to effectively visualize data for meaningful data-driven decisions.
 
 
 The question we want to answer:
@@ -17,8 +18,8 @@ The question we want to answer:
 1. Which company gives the highest sales in USD?
 2. Which dealer gives a highest sales in USD?
 3. Which region gives a highest GWT?
-4. WWhich color conventionally signifies a decline or negative growth rate? possible try new color?
-5. Which body type gives the highest sales in USD?
+4. Which body type gives negative GWT rate?
+5. Which car color gives a highest sales in USD?
 
 Data:
 
@@ -41,7 +42,7 @@ Data Cleaning and Processing:
 
 <img width="681" height="771" alt="CREATE RELATIONSHIP" src="https://github.com/user-attachments/assets/7f92ace0-21ec-4cd5-b7c7-856d8ace6ade" />
 
-4. Sorting month by month number to maintain proper sequence when creating a line chart
+4. Sorting month by month number to maintain proper sequence (etc. Jan, Feb, Mar)
 
 <img width="1669" height="604" alt="SORT MONTH BY NUMBER" src="https://github.com/user-attachments/assets/9b456ab6-4c7f-45d6-ac0b-e9fcbd522163" />
 
@@ -61,7 +62,7 @@ Data Cleaning and Processing:
 
 <img width="783" height="34" alt="CALCULATE TOTAL SALES 2023" src="https://github.com/user-attachments/assets/02cba745-667a-4479-ad94-c9778d6897a5" />
 
-9. Create DAX percent contribution by sales by gender.
+9. Create DAX percent contribution sales by gender.
 
 <img width="621" height="120" alt="GENDER CONTRI" src="https://github.com/user-attachments/assets/bf6aab47-804a-4f2d-910a-a5ca06256aa5" />
 
@@ -73,17 +74,41 @@ Findings:
 
 1. Which company gives the highest sales in USD? --> Chevrolet (answer may vary if filtered per year)
 
-<img width="417" height="253" alt="image" src="https://github.com/user-attachments/assets/7242e556-5cf7-44f9-98ec-6fc6b67497bf" />
+<img width="486" height="251" alt="image" src="https://github.com/user-attachments/assets/ac12dff2-08f2-44d1-b1e9-9e1db23e266b" />
 
-2. Which dealer gives a highest sales in USD? --> Rabun Used Car sales this is the top 1 from the highest sales by dealer.
 
-<img width="352" height="255" alt="image" src="https://github.com/user-attachments/assets/b6ad4003-0d82-4f31-a14e-db77fe797503" />
+2. Which dealer gives a highest sales in USD? --> Rabun Used Car Sales this is the top 1 from the highest sales by dealer.
+
+<img width="403" height="249" alt="image" src="https://github.com/user-attachments/assets/a03e85d1-9edc-4186-80a6-82f5bd27b84c" />
+
 
 3. Which region gives a highest GWT? Scottsdale has a highest Gwt vs PY 
 
-<img width="373" height="163" alt="image" src="https://github.com/user-attachments/assets/34e234cd-c540-4ca3-bc8a-12a74343a240" />
+<img width="380" height="154" alt="image" src="https://github.com/user-attachments/assets/89b6a337-eff7-44d3-b7ae-ade5aba40890" />
 
-4. 
+
+4. Which body type gives negative GWT rate? --> Hatchback has a negative GWT vs PY
+
+<img width="366" height="160" alt="image" src="https://github.com/user-attachments/assets/734a99e4-cc3a-4eae-b660-efa341c9936a" />
+
+
+5. Which car color gives a highest sales in USD? --> Pale white has a highest sales by color
+
+<img width="388" height="128" alt="image" src="https://github.com/user-attachments/assets/f5a05f7b-b8af-4822-8848-caf00ad66062" />
+
+
+
+
+Recommendation:
+
+1. The analysis shows strong, healthy business with 24% sales growth (2023 vs 2022).
+2. The -1% negative growth in the Hatchback body type represents a critical drag on the 24% aggregate growth. This has to be investigate.
+
+<img width="690" height="127" alt="image" src="https://github.com/user-attachments/assets/38a91e46-d0fe-4a56-8618-483d29fd4eae" />
+
+<img width="366" height="160" alt="image" src="https://github.com/user-attachments/assets/734a99e4-cc3a-4eae-b660-efa341c9936a" />
+
+
 
 
    
