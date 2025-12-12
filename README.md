@@ -62,11 +62,15 @@ Data Cleaning and Processing:
 
 <img width="783" height="34" alt="CALCULATE TOTAL SALES 2023" src="https://github.com/user-attachments/assets/02cba745-667a-4479-ad94-c9778d6897a5" />
 
-9. Create DAX percent contribution sales by gender.
+9. Create DaX count total customer.
+
+<img width="573" height="25" alt="image" src="https://github.com/user-attachments/assets/4d6f6fbf-88bb-4761-976b-f8ff5a81d9df" />
+
+10. Create DAX percent contribution sales by gender.
 
 <img width="621" height="120" alt="GENDER CONTRI" src="https://github.com/user-attachments/assets/bf6aab47-804a-4f2d-910a-a5ca06256aa5" />
 
-10. Create DAX percent growth this is to easily assess if a specific category is performing better or not.
+11. Create DAX percent growth this is to easily assess if a specific category is performing better or not.
 
 <img width="627" height="35" alt="% GWT" src="https://github.com/user-attachments/assets/db52a18f-2838-44c0-8d3b-3d0b2f9f2092" />
 
