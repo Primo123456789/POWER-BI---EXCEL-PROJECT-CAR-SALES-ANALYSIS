@@ -4,7 +4,8 @@ This data is from kaggle.com and includes records from 2022 - 2023.
 
 Data Source: https://www.kaggle.com/datasets/missionjee/car-sales-report
 
-<img width="1406" height="790" alt="image" src="https://github.com/user-attachments/assets/e5497212-8239-4377-903c-6dc9cc9dbe5b" />
+<img width="1515" height="851" alt="image" src="https://github.com/user-attachments/assets/0c280a14-bff6-493d-b367-42b6e724fa3c" />
+
 
 
 GOAL: 
