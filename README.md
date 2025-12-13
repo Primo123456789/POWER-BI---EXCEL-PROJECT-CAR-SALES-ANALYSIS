@@ -86,7 +86,7 @@ Findings:
 <img width="403" height="249" alt="image" src="https://github.com/user-attachments/assets/a03e85d1-9edc-4186-80a6-82f5bd27b84c" />
 
 
-3. Which region gives a highest GWT? Scottsdale has a highest Gwt vs PY 
+3. Which region gives a highest GWT rate? Scottsdale has a highest Gwt vs PY 
 
 <img width="380" height="154" alt="image" src="https://github.com/user-attachments/assets/89b6a337-eff7-44d3-b7ae-ade5aba40890" />
 
