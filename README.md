@@ -17,7 +17,7 @@ The question we want to answer:
 
 1. Which company gives the highest sales in USD?
 2. Which dealer gives a highest sales in USD?
-3. Which region gives a highest GWT?
+3. Which region gives a highest GWT rate?
 4. Which body type gives negative GWT rate?
 5. Which car color gives a highest sales in USD?
 
