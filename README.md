@@ -14,9 +14,12 @@ GOAL:
 2. Use Power BI skills to effectively visualize data for meaningful data-driven decisions.
 
 
+
 Problem Statement:
 
 The car sales team currently relies on raw sales data and static reports to monitor performance, making it difficult to quickly assess trends, identify top-performing models, and track revenue against targets.
+
+
 
 
 The question we want to answer:
