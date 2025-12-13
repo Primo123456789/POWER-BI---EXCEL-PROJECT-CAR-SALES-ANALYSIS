@@ -30,7 +30,7 @@ Because of this:
 Objective:
 
 The objective of this project is to identify which companies are performing well and which are underperforming in terms of car sales. 
-Based on these insights, the dashboard will help evaluate whether existing business strategies are effective or if corrective actions are needed to improve performance and address unresolved issues.
+Based on these insights, the dashboard will help evaluate whether existing business strategies are effective or if corrective actions are needed to improve performance.
 
 
 The question we want to answer:
