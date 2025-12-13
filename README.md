@@ -111,7 +111,7 @@ Findings:
 Conclusions:
 
 * The car sales performance dashboard successfully addressed the lack of a centralized and reliable reporting system by providing clear visibility into company performance.
-* It enabled the identification of high-performing and underperforming companies, supported data-driven decision-making, and provided a foundation for continuous performance improvement and strategic planning.
+* It enabled the identification of high-performing and underperforming companies, supported data-driven decision-making, and provided a foundation for continuous performance improvement.
 
 
 Recommendation:
