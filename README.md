@@ -20,7 +20,7 @@ GOAL:
 
 Problem Statement:
 
-The organization lacks a centralized system to monitor car sales performance across regions, body type, company, models, and dealers. Leading to delayed insights and inefficient performance tracking.
+The organization lacks a centralized system to monitor car sales performance across regions, body type, company, models, colors, and dealers. Leading to delayed insights and inefficient performance tracking.
 
 Because of this:
 
