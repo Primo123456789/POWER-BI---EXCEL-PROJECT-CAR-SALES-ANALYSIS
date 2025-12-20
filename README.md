@@ -4,7 +4,10 @@ This data is from kaggle.com and includes records from 2022 - 2023.
 
 Data Source: https://www.kaggle.com/datasets/missionjee/car-sales-report
 
-<img width="1453" height="825" alt="image" src="https://github.com/user-attachments/assets/b4a1173a-cb76-4ed4-a5a3-626484f4fa38" />
+<img width="1479" height="827" alt="image" src="https://github.com/user-attachments/assets/40547cf9-98f5-4ff3-859d-b8d63f510d3c" />
+
+
+
 
 
 
@@ -93,7 +96,8 @@ Findings:
 
 1. Which company gives the highest sales in USD? --> Chevrolet (answer may vary if filtered per year)
 
-<img width="494" height="247" alt="image" src="https://github.com/user-attachments/assets/142c2112-8d9b-44ee-9516-2d900be40f96" />
+<img width="500" height="242" alt="image" src="https://github.com/user-attachments/assets/eff29b86-96d8-4e1a-921c-cbb3a70a3d7e" />
+
 
 
 2. Which region gives a highest GWT rate? Scottsdale has a highest Gwt vs PY 
@@ -122,7 +126,8 @@ Recommendation:
 * Optimize Product and Model Mix - Focus on high-demand and high-margin car models while reviewing or discontinuing consistently underperforming models.
 *  Scale Best Practices from Top Performers - Analyze high-performing companies to understand successful strategies. Replicate these best practices across underperforming companies where applicable.
 
-<img width="734" height="128" alt="image" src="https://github.com/user-attachments/assets/31ffe4f8-45b1-4a74-aab6-0a4e28c654f5" />
+<img width="738" height="122" alt="image" src="https://github.com/user-attachments/assets/ca350fc8-f857-49f4-a767-e667e405808a" />
+
 
 
 <img width="389" height="175" alt="image" src="https://github.com/user-attachments/assets/2462e3bf-e809-4bf1-b8d6-ada2583679ea" />
