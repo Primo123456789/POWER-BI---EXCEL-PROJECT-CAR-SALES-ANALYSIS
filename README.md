@@ -4,7 +4,8 @@ This data is from kaggle.com and includes records from 2022 - 2023.
 
 Data Source: https://www.kaggle.com/datasets/missionjee/car-sales-report
 
-<img width="1479" height="827" alt="image" src="https://github.com/user-attachments/assets/40547cf9-98f5-4ff3-859d-b8d63f510d3c" />
+<img width="1480" height="829" alt="image" src="https://github.com/user-attachments/assets/9aad4851-731d-43e0-a0a0-354f9f59bab3" />
+
 
 
 
@@ -102,12 +103,14 @@ Findings:
 
 2. Which region gives a highest GWT rate? Scottsdale has a highest Gwt vs PY 
 
-<img width="397" height="169" alt="image" src="https://github.com/user-attachments/assets/5427502a-48b2-4531-837e-e3cb13a1b3d2" />
+<img width="429" height="188" alt="image" src="https://github.com/user-attachments/assets/8773ee47-9f52-40f2-b119-edcc905b75c8" />
+
 
 
 3. Which body type gives negative GWT rate? --> Hatchback has a negative GWT vs PY
 
-<img width="389" height="175" alt="image" src="https://github.com/user-attachments/assets/2462e3bf-e809-4bf1-b8d6-ada2583679ea" />
+<img width="420" height="179" alt="image" src="https://github.com/user-attachments/assets/5a54d1c9-5ca7-45e9-b682-2f84dfc53529" />
+
 
 
 
@@ -130,7 +133,7 @@ Recommendation:
 
 
 
-<img width="389" height="175" alt="image" src="https://github.com/user-attachments/assets/2462e3bf-e809-4bf1-b8d6-ada2583679ea" />
+<img width="420" height="179" alt="image" src="https://github.com/user-attachments/assets/5a54d1c9-5ca7-45e9-b682-2f84dfc53529" />
 
 
 
